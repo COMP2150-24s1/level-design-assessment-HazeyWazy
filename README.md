@@ -50,9 +50,14 @@ As shown in the picture, the player comes across a staff that can be taken from 
 In this part, the player is introduced to chompers, which move towards the player to deal damage upon contact. The player learns that they can be destroyed by using the staff as a melee weapon.
 
 ### 1.2. Drama
-What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
+![Intensity Curve](DocImages/image8.jpg)
 
+The intensity curve is designed to gradually increase, providing players with moments of tension and relief throughout their journey. As players progress, more challenging hazards and enemies are introduced over time.
+
+![Drama](DocImages/image9.png)
+
+In the picture shown above, the player must navigate through a series of platforms suspended over spikes at the bottom while avoiding spitters and moving spikes. The cramped quarters and constant threat of falling create a sense of tension for players. Reaching the checkpoint afterward provides moments of relief and respite. The combination of moving platform challenges and spitters keeps players engaged and invested in the gameplay, while the occasional presence of stationary platforms ensures that the difficulty remains manageable and players feel a sense of progression.
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
