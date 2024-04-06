@@ -19,6 +19,7 @@ Outline and justify how your level design facilitates the core player experience
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+The player learns about a variety of game mechanics, including enemy behaviours, environmental hazards, player abilities and interactive elements as they progress through the level. The player discovers the movement speed and jumping height of Ellen, the game character that the player controls, at the beginning of the game. There are two types of enemies in the game. Spitters attack from a distance with projectiles, while chompers move towards the player to deal damage upon contact. The player is also introduced to hazards such as spikes and acid pools. Spikes cause damage upon contact, while acid pools trigger a respawn at the last checkpoint. There are pushable boxes which the player can use to cross acid pools or activate the pressure pad to make the platform move. The player discovers that they can pick up the gun and the staff to use. The gun allows the player to shoot enemies from a distance, while the staff can be used as a melee weapon or to destroy certain walls blocking the way.
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
