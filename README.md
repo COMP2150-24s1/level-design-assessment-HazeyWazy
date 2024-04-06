@@ -19,7 +19,8 @@ Outline and justify how your level design facilitates the core player experience
 
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
-The player learns about a variety of game mechanics, including enemy behaviours, environmental hazards, player abilities and interactive elements as they progress through the level. The player discovers the movement speed and jumping height of Ellen, the game character that the player controls, at the beginning of the game. There are two types of enemies in the game. Spitters attack from a distance with projectiles, while chompers move towards the player to deal damage upon contact. The player is also introduced to hazards such as spikes and acid pools. Spikes cause damage upon contact, while acid pools trigger a respawn at the last checkpoint. There are pushable boxes which the player can use to cross acid pools or activate the pressure pad to make the platform move. The player discovers that they can pick up the gun and the staff to use. The gun allows the player to shoot enemies from a distance, while the staff can be used as a melee weapon or to destroy certain walls blocking the way.
+
+The player learns about various game mechanics, including enemy behaviors, environmental hazards, player abilities, and interactive elements as they progress through the level. At the beginning of the game, the player discovers the movement speed and jumping height of Ellen, the game character they control. There are two types of enemies in the game. Spitters attack from a distance with projectiles, while chompers move towards the player to deal damage upon contact. The player is also introduced to hazards such as spikes and acid pools. Spikes cause damage upon contact, while acid pools trigger a respawn at the last checkpoint. There are pushable boxes that the player can use to cross acid pools or activate the pressure pad to make the platform move. The player discovers that they can pick up the gun and the staff to use. The gun allows the player to shoot enemies from a distance, while the staff can be used as a melee weapon or to destroy certain walls blocking the way.
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
@@ -79,22 +80,9 @@ You should conclude by highlighting a specific example of an encounter, or anoth
 
 ## Generative AI Use Acknowledgement
 
-Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
-An example has been included. Please replace this with any actual tools, and add more as necessary.
-
-
-### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
+### Tool Used: ChatGPT 3.5
+**Nature of Use** Checking grammar mistakes and correcting punctuations.
 
 **Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
 
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
-
-### Tool Used: Example
-**Nature of Use** Example Text
-
-**Evidence Attached?** Example Text
-
-**Additional Notes:** Example Text
-
-
+**Additional Notes:** I used ChatGPT to check grammar mistakes and to correct punctuations. I read through the suggestions and incorporated some of the phrasing into my writing.
