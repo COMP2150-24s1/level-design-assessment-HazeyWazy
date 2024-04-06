@@ -14,28 +14,27 @@ Example:
 
 
 
-## 1. Player Experience (~700 words)
-Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
+## 1. Player Experience
 
 ### 1.1. Discovery
 
-The player learns about various game mechanics, including enemy behaviours, hazards, and interactive elements throughout the level. At the beginning of the game, the player discovers the movement speed and jumping height of the game character, Ellen. New mechanics and elements are progressively introduced to players so that they can learn and adapt to each new challenge at their own pace. Players are encouraged to explore and learn about the functionality of objects through encounters such as the gun and the staff, fostering a sense of agency and curiosity.
+New mechanics and elements are progressively introduced to players so that they can learn and adapt to each new challenge at their own pace. Players are encouraged to explore and learn about the functionality of objects through encounters, fostering a sense of agency and curiosity.
 
 ![Discovery of Checkpoint, PassThroughPlatform & Acid](DocImages/image1.png)
 
-In the above picture, the player encounters a section where they discover the checkpoint, a platform which they can pass through, and the fact that acid pools trigger a respawn at the last checkpoint. 
+In the above picture, players encounter a section where they discover the checkpoint, a platform which they can pass through, and the fact that acid pools trigger a respawn at the last checkpoint. 
 
 ![Discovery of Gun & Spitter](DocImages/image2.png)
 
-As depicted in the picture, the player encounters a skeleton equipped with a gun and an enemy spitter. The player discovers that they can pick up the gun and learn how to shoot it to kill the spitter, which attacks from a distance. The first spitter is placed in a location where the player can observe its behavior without immediate danger. The player learns to time their movements to dodge the spitter's projectiles through trial and error.
+As depicted in the picture, players encounter a skeleton equipped with a gun and an enemy spitter. The player discovers that they can pick up the gun and learn how to shoot it to kill the spitter. The first spitter is placed in a location where players can observe its behaviour without immediate danger. The player learns to dodge the spitter's projectiles through trial and error.
 
 ![Discovery of HealthPickup, PressurePad & Moving Platform](DocImages/image3.png)
 
-In this part, the player learns that health can be restored with a health pickup box, and the pressure pad can be used to move the platform by standing on top of it. The health pickup boxes are visually distinct, drawing the player's attention and signaling that they can be interacted with.
+In this part, the player learns that health can be restored with a health pickup box, and the pressure pad can be used to move the platform. The health pickup boxes are visually distinct, drawing their attention.
 
 ![Discovery of PushableBox, Spike, Switch & TriggerDoor](DocImages/image4.png)
 
-In this section, the player is introduced to a big box that can be pushed, spikes that cause damage upon contact, and a switch that can be triggered with the bullet to open a door. The sound of a switch being triggered signals to the player that a door has opened. Such visual and audio cues provide feedback to players, reinforcing learning and guiding them through the discovery process.
+In this section, the player is introduced to a big pushable box, spikes that cause damage upon contact, and a switch that can be triggered with the bullet. The sound of a switch being triggered signals to the player that a door has opened. Such visual and audio cues provide feedback to players, reinforcing learning and guiding them through the discovery process.
 
 ![Discovery of FloatingBox](DocImages/image5.png)
 
@@ -43,32 +42,37 @@ As seen in the image, the player is exposed to the mechanics that pushable boxes
 
 ![Discovery of Staff & Destructible Wall](DocImages/image6.png)
 
-As shown in the picture, the player comes across a staff that can be taken from the skeleton and encounters a destructible wall, which forces the player to use the staff to destroy the obstacle in their path.
+As shown in the picture, the player comes across a staff that can be taken from the skeleton and encounters a destructible wall, which forces them to use the staff to destroy the obstacle in their path.
 
 ![Discovery of Chompers](DocImages/image7.png)
 
-In this part, the player is introduced to chompers, which move towards the player to deal damage upon contact. The player learns that they can be destroyed by using the staff as a melee weapon.
+In this part, the player is introduced to chompers, which move towards them to deal damage upon contact. The player learns that they can be destroyed by using the staff as a melee weapon.
 
 ### 1.2. Drama
 
 ![Intensity Curve](DocImages/image8.jpg)
 
-The intensity curve is designed to gradually increase, providing players with moments of tension and relief throughout their journey. As players progress, more challenging hazards and enemies are introduced over time.
+The intensity curve is designed to gradually increase, providing players with moments of tension and relief throughout their journey. More challenging hazards and enemies are introduced over time.
 
 ![Drama](DocImages/image9.png)
 
-In the picture shown above, the player must navigate through a series of platforms suspended over spikes at the bottom while avoiding spitters and moving spikes. The cramped quarters and constant threat of falling create a sense of tension for players. Reaching the checkpoint afterward provides moments of relief and respite. The combination of moving platform challenges and spitters keeps players engaged and invested in the gameplay, while the occasional presence of stationary platforms ensures that the difficulty remains manageable, and players feel a sense of progression.
+In the picture shown above, players must navigate through a series of platforms suspended over spikes at the bottom while avoiding spitters and moving spikes. The cramped quarters and constant threat of falling create a sense of tension for players. Reaching the checkpoint afterward provides moments of relief and respite. The combination of moving platform challenges and spitters keeps players engaged and invested in the gameplay, while the occasional presence of stationary platforms ensures that the difficulty remains manageable, and players feel a sense of progression.
 
 ### 1.3. Challenge
 
-The main challenges revolve around navigating hazards, defeating enemies, solving puzzles, and mastering platforming mechanics. The difficulty curve is carefully balanced to avoid frustration and keep players in the flow channel, with each new challenge building upon the skills learned in previous levels. Players must learn to anticipate movements and attacks of spitters and chompers, as well as develop strategies for defeating them efficiently while minimizing damage taken. Timing, precision, and spatial awareness for spikes and acid pools are crucial for avoiding damage and progressing through the level safely. Obstacles such as locked doors and large acid pools encourage problem-solving skills. Visual indicators of damage taken or the consequences of failing to navigate a hazard help the player understand the impact of their actions and adjust their strategies accordingly. This iterative process of learning and adaptation is essential for maintaining flow and preventing frustration.
+The main challenges revolve around navigating hazards, defeating enemies, solving puzzles, and mastering platforming mechanics. The difficulty curve is carefully balanced to keep players in the flow channel, with each new challenge building upon the skills learned in previous levels. Players must learn to anticipate movements and attacks of spitters and chompers, as well as develop strategies for defeating them efficiently while minimizing damage taken. Timing, precision, and spatial awareness for spikes and acid pools are crucial for avoiding damage and progressing through the level safely. Obstacles such as locked doors and large acid pools encourage problem-solving skills. Visual indicators of damage taken or the consequences of failing to navigate a hazard help the player understand the impact of their actions and adjust their strategies accordingly. This iterative process of learning and adaptation is essential for maintaining flow and preventing frustration.
 
 ![Challenge](DocImages/image10.png)
 
 In the above picture, the player must trigger the switch to unlock the door to get the key. However, the switch and the door are guarded by two spitters. Combining enemy encounters with puzzle-solving elements provides a meaningful test of the player's abilities without feeling overly punishing or unfair.
 
 ### 1.4. Exploration
-How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+
+The level is filled with interactive elements such as switches, movable objects, and destructible walls, creating opportunities for exploration and experimentation. Visual cues and environmental aesthetics of the level create memorable spaces and places. After picking up the gun, the player can choose to go back to the left side of the game world or continue to the right.
+
+![Exploration](DocImages/image11.png)
+
+As seen in the picture, the player encounters a seemingly dead-end with a suspicious-looking cracked wall. Upon closer inspection, they notice cracks in the wall, hinting at its destructible nature. By using the staff, which they acquired earlier, they can break through the cracked wall to move forward. This example demonstrates how exploration is encouraged through environmental cues and interactive elements. 
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
