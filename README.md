@@ -12,7 +12,7 @@ Your document must include images. To insert an image into your documentation, p
 
 Example:
 
-![This is the alt text for an image!](DocImages/exampleimage.png)
+
 
 ## 1. Player Experience (~700 words)
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
@@ -20,10 +20,40 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
-The player learns about various game mechanics, including enemy behaviors, environmental hazards, player abilities, and interactive elements as they progress through the level. At the beginning of the game, the player discovers the movement speed and jumping height of Ellen, the game character they control. There are two types of enemies in the game. Spitters attack from a distance with projectiles, while chompers move towards the player to deal damage upon contact. The player is also introduced to hazards such as spikes and acid pools. Spikes cause damage upon contact, while acid pools trigger a respawn at the last checkpoint. There are pushable boxes that the player can use to cross acid pools or activate the pressure pad to make the platform move. The player discovers that they can pick up the gun and the staff to use. The gun allows the player to shoot enemies from a distance, while the staff can be used as a melee weapon or to destroy certain walls blocking the way.
+The player learns about various game mechanics, including enemy behaviours, hazards, and interactive elements throughout the level. At the beginning of the game, the player discovers the movement speed and jumping height of the game character, Ellen. New mechanics and elements are progressively introduced to players so that they can learn and adapt to each new challenge at their own pace. Players are encouraged to explore and learn about the functionality of objects through encounters such as the gun and the staff, fostering a sense of agency and curiosity.
+
+![Discovery of Checkpoint, PassThroughPlatform & Acid](DocImages/image1.png)
+
+In the above picture, the player encounters a section where they discover the checkpoint, a platform which they can pass through, and the fact that acid pools trigger a respawn at the last checkpoint. 
+
+![Discovery of Gun & Spitter](DocImages/image2.png)
+
+As depicted in the picture, the player encounters a skeleton equipped with a gun and an enemy spitter. The player discovers that they can pick up the gun and learn how to shoot it to kill the spitter, which attacks from a distance. The first spitter is placed in a location where the player can observe its behavior without immediate danger. The player learns to time their movements to dodge the spitter's projectiles through trial and error.
+
+![Discovery of HealthPickup, PressurePad & Moving Platform](DocImages/image3.png)
+
+In this part, the player learns that health can be restored with a health pickup box, and the pressure pad can be used to move the platform by standing on top of it. The health pickup boxes are visually distinct, drawing the player's attention and signaling that they can be interacted with.
+
+![Discovery of PushableBox, Spike, Switch & TriggerDoor](DocImages/image4.png)
+
+In this section, the player is introduced to a big box that can be pushed, spikes that cause damage upon contact, and a switch that can be triggered with the bullet to open a door. The sound of a switch being triggered signals to the player that a door has opened. Such visual and audio cues provide feedback to players, reinforcing learning and guiding them through the discovery process.
+
+![Discovery of FloatingBox](DocImages/image5.png)
+
+As seen in the image, the player is exposed to the mechanics that pushable boxes can float on the acid.
+
+![Discovery of Staff & Destructible Wall](DocImages/image6.png)
+
+As shown in the picture, the player comes across a staff that can be taken from the skeleton and encounters a destructible wall, which forces the player to use the staff to destroy the obstacle in their path.
+
+![Discovery of Chompers](DocImages/image7.png)
+
+In this part, the player is introduced to chompers, which move towards the player to deal damage upon contact. The player learns that they can be destroyed by using the staff as a melee weapon.
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
+
+
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
