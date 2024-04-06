@@ -18,7 +18,6 @@ Example:
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
 ### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
 The player learns about various game mechanics, including enemy behaviours, hazards, and interactive elements throughout the level. At the beginning of the game, the player discovers the movement speed and jumping height of the game character, Ellen. New mechanics and elements are progressively introduced to players so that they can learn and adapt to each new challenge at their own pace. Players are encouraged to explore and learn about the functionality of objects through encounters such as the gun and the staff, fostering a sense of agency and curiosity.
 
