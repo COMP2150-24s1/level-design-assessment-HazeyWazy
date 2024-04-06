@@ -57,10 +57,16 @@ The intensity curve is designed to gradually increase, providing players with mo
 
 ![Drama](DocImages/image9.png)
 
-In the picture shown above, the player must navigate through a series of platforms suspended over spikes at the bottom while avoiding spitters and moving spikes. The cramped quarters and constant threat of falling create a sense of tension for players. Reaching the checkpoint afterward provides moments of relief and respite. The combination of moving platform challenges and spitters keeps players engaged and invested in the gameplay, while the occasional presence of stationary platforms ensures that the difficulty remains manageable and players feel a sense of progression.
+In the picture shown above, the player must navigate through a series of platforms suspended over spikes at the bottom while avoiding spitters and moving spikes. The cramped quarters and constant threat of falling create a sense of tension for players. Reaching the checkpoint afterward provides moments of relief and respite. The combination of moving platform challenges and spitters keeps players engaged and invested in the gameplay, while the occasional presence of stationary platforms ensures that the difficulty remains manageable, and players feel a sense of progression.
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
+
+The main challenges revolve around navigating hazards, defeating enemies, solving puzzles, and mastering platforming mechanics. The difficulty curve is carefully balanced to avoid frustration and keep players engaged, with each new challenge building upon the skills learned in previous levels. Players must learn to anticipate movements and attacks of spitters and chompers, as well as develop strategies for defeating them efficiently while minimizing damage taken. Timing, precision, and spatial awareness for spikes and acid pools are crucial for avoiding damage and progressing through the level safely. Obstacles such as locked doors and large acid pools encourage problem-solving skills. Visual indicators of damage taken or the consequences of failing to navigate a hazard help the player understand the impact of their actions and adjust their strategies accordingly. This iterative process of learning and adaptation is essential for maintaining flow and preventing frustration.
+
+![Challenge](DocImages/image10.png)
+
+In the above picture, the player must trigger the switch to unlock the door to get the key. However, the switch and the door are guarded by two spitters. Combining enemy encounters with puzzle-solving elements provides a meaningful test of the player's abilities without feeling overly punishing or unfair.
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
