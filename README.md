@@ -152,6 +152,23 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
+Iterative design played a crucial role in refining and improving the overall quality of the level design. Through iterative testing and making iterative adjustments, I was able to identify and address problems, improve player experience, and eventually produce a more enjoyable gameplay environment.
+
+![Sketches](DocImages/image23.jpg)
+![Sketches](DocImages/image24.jpg)
+![Sketches](DocImages/image25.jpg)
+![Sketches](DocImages/image26.jpg)
+![Sketches](DocImages/image27.jpg)
+
+I started the design process by sketching the design layouts, enemy placements, and interactive items as shown in the above pictures. Those sketches helped me to explore various design ideas and visualise potential challenges before the implementation in Unity. After the implementing in Unity, I playtested multiple times to pinpoint areas for improvement throughout the whole process. I made some adjustments to the level design based on the findings during playtesting. This involved changing the position of enemies, adjusting platform layouts, and optimising the gameplay. I discovered that the placement of several enemies may frustrate players based on results from early playtesting sessions. In response, I moved the spitters and chompers around to provide players more strategic ways to interact with them while maintaining a fair and balanced encounter experience.
+
+The significance of adjusting difficulty to account for varying skill levels was one of the most important lessons discovered during the development process. I was able to see the significance of delivering a gradual learning curve and modifying difficulty levels based on user skill levels. I also discovered the value of incorporating moments of rest and relaxation between intense gameplay segments. By strategically placing checkpoints and safe zones throughout the level, I was able to create a more balanced pacing that allowed players to recover after challenging encounters.
+
+
+![Further Improvement](DocImages/image9.png)
+
+The pacing of enemy encounters and the speed of moving platforms in this part could be further improved through iterative design. Both spike and spitter encounters may be somewhat difficult or overwhelming for some players, leading to frustration. Moreover, I also want to investigate new gameplay mechanics and level components that can improve player immersion and engagement even more. Through constant exploration and iteration, I aim to keep improving the level design.
+
 ## Generative AI Use Acknowledgement
 
 ### Tool Used: ChatGPT 3.5
