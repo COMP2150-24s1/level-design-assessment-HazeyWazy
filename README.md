@@ -75,33 +75,64 @@ The level is filled with interactive elements such as switches, movable objects,
 As seen in the picture, the player encounters a seemingly dead-end with a suspicious-looking cracked wall. Upon closer inspection, they notice cracks in the wall, hinting at its destructible nature. By using the staff, which they acquired earlier, they can break through the cracked wall to move forward. This example demonstrates how exploration is encouraged through environmental cues and interactive elements. 
 
 ## 2. Core Gameplay (~400 words)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
 
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
+![Core Gameplay First Section](DocImages/image12.jpg)
 
-You should restructure the headings below to match the order they appear in your level.
+![Core Gameplay First Section](DocImages/image20.jpg)
 
-### 2.1. Acid
+### 2.1. Acid & Checkpoints
 
-### 2.2. Checkpoints
+![Storyboard Acid & Checkpoints](DocImages/image13.jpg)
 
-### 2.3. Chompers
+The player passes by a glowing checkpoint marker for the first time and reaches a pool of bubbling green acid. They jump into the acid and lose 1 health point, prompting them to respawn at the last checkpoint. Introducing the concept of acid early in the game emphasises the importance of environmental hazards and teaches players to avoid them to progress safely.
 
-### 2.4. Health Pickups
+### 2.2. Passthrough Platforms
 
-### 2.5. Keys
+![Storyboard Passthrough Platforms](DocImages/image14.jpg)
 
-### 2.6. Moving Platforms
+After respawning, the player must figure out a way to progress. They stand on a slightly different platform and notice that they can pass through it. Early introduction of passthrough platforms adds depth to level design and inspires players to think creatively.
 
-### 2.7. Passthrough Platforms
+### 2.3. Weapon Pickup (Gun)
 
-### 2.8. Spikes
+![Storyboard Weapon Pickup (Gun)](DocImages/image15.jpg)
 
-### 2.9. Spitters
+Moving forward, the player discovers a gun pickup from the skeleton. They pick up the gun. By introducing a spitter right after the gun pickup, players are forced to learn how to shoot the gun.
 
-### 2.10. Weapon Pickup (Gun)
+### 2.4. Spitters
 
-### 2.11. Weapon Pickup (Staff)
+![Storyboard Spitters](DocImages/image16.jpg)
+
+Afterwards, the player is met with a group of spitters to introduce combined mechanics such as jumping and shooting & crouching and shooting. 
+
+### 2.5. Health Pickups
+
+![Storyboard Health Pickups](DocImages/image17.jpg)
+
+Once the player kills the spitters, a health pickup is presented to them to restore one health point if they take damage from the spitter, rewarding their victory. 
+
+### 2.6. Spikes
+
+![Storyboard Spikes](DocImages/image18.jpg)
+
+If the player continues to jump on the spikes to get near the switch, they will take damage and lose one health point. By placing spikes there, players are forced to use the jumping and shooting mechanics to trigger the switch. This introduction of spikes reinforces the importance of precision and careful movement in navigating through the level later.
+
+### 2.7. Keys
+
+![Storyboard Keys](DocImages/image19.jpg)
+
+As seen in the picture, players must kill the spitter guarding the switch to open the door and collect the key. This placement of spitters adds a strategic layer since they must time their shooting and movements to avoid the spitter's projectiles. After defeating the spitter and opening the door, the player is rewarded with a health pickup and a key to encourage positive feedback loops.  
+
+### 2.8. Moving Platforms
+
+![Storyboard Moving Platforms](DocImages/image20.jpg)
+
+Along the path, the player encounters two moving platforms suspended over two acid pools. They must carefully time their jumps to avoid falling into the acid pools. This introduction of moving platforms early in the game allows players to become familiar with platforming mechanics that will be more complex later in the game.
+
+### 2.9. Weapon Pickup (Staff) & Chompers
+
+![Storyboard Weapon Pickup (Staff) & Chompers](DocImages/image22.jpg)
+
+As shown in the picture, the player picks up a staff from the skeleton and is introduced to to a breakable wall and chompers, forcing them to use the staff. They must destroy the wall and kill in the chompers to continue their path. If they fail to do so, the chompers will deal one damage point upon contact. This element placement encourages them to explore the tools in the game.
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
@@ -112,9 +143,9 @@ No additional words are necessary for this section (any words should only be wit
 
 ### 3.2. Level Map – Section 1
 
-### 3.3.	Level Map – Section 2
+### 3.3. Level Map – Section 2
 
-### 3.4.	Level Map – Section 3
+### 3.4. Level Map – Section 3
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
