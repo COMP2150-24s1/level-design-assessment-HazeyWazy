@@ -122,7 +122,7 @@ As shown in the picture, the player picks up a staff from the skeleton and is in
  
 ### 3.1. Molecule Diagram
 
-![Molecule Diagram](DocImages/image30.jpg)
+![Molecule Diagram](DocImages/image30.png)
 
 ### 3.2. Level Map – Section 1
 
