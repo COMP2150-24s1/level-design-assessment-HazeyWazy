@@ -2,18 +2,6 @@
 ### Name: Htet Yamin Ei
 ### Student number: 47743220
 
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
-
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
-Example:
-
-
-
 ## 1. Player Experience
 
 ### 1.1. Discovery
@@ -74,11 +62,7 @@ The level is filled with interactive elements such as switches, movable objects,
 
 As seen in the picture, the player encounters a seemingly dead-end with a suspicious-looking cracked wall. Upon closer inspection, they notice cracks in the wall, hinting at its destructible nature. By using the staff, which they acquired earlier, they can break through the cracked wall to move forward. This example demonstrates how exploration is encouraged through environmental cues and interactive elements. 
 
-## 2. Core Gameplay (~400 words)
-
-![Core Gameplay First Section](DocImages/image12.jpg)
-
-![Core Gameplay First Section](DocImages/image20.jpg)
+## 2. Core Gameplay
 
 ### 2.1. Acid & Checkpoints
 
@@ -135,19 +119,26 @@ Along the path, the player encounters two moving platforms suspended over two ac
 As shown in the picture, the player picks up a staff from the skeleton and is introduced to to a breakable wall and chompers, forcing them to use the staff. They must destroy the wall and kill in the chompers to continue their path. If they fail to do so, the chompers will deal one damage point upon contact. This element placement encourages them to explore the tools in the game.
 
 ## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
-
-No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
 
+![Molecule Diagram](DocImages/image30.jpg)
+
 ### 3.2. Level Map – Section 1
+
+![Level Map Section 1](DocImages/image12.jpg)
+
+![Level Map Section 1](DocImages/image20.jpg)
 
 ### 3.3. Level Map – Section 2
 
+![Level Map Section 2](DocImages/image28.jpg)
+
 ### 3.4. Level Map – Section 3
 
-## 4. Iterative Design (~400 words)
+![Level Map Section 3](DocImages/image29.jpg)
+
+## 4. Iterative Design
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
